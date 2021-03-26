@@ -85,6 +85,7 @@ body {
 }
 
 .lightbox__overlay {
+
   position: absolute;
   top: 0;
   left: 0;
@@ -111,6 +112,7 @@ body {
 }
 
 .lightbox__button {
+
   position: absolute;
   top: 8px;
   right: 8px;
